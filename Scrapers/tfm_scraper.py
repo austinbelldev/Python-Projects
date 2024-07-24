@@ -2,7 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 import pandas as pd
-import sql_query
 
 ## Insert decimal into
 def insert_decimal(value):
